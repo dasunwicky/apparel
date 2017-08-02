@@ -11,9 +11,9 @@ Clone or download the project and host it on web server
 ```
 PHP configured web server (Apache HTTP, Nginx etc...)
 ```
+```
 MySQL DB server
 ```
-
 
 ### Installing
 
