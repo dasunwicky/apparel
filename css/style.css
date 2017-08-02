@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	background-color: #000;
+}
+.body_wrapper {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0 10px 10px;
+}
+#header_1 {
+	font-size: 17px;
+	color: #CCC;
+	font-weight: normal;
+	text-align: right;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+#company_logo {
+	text-align: left;
+
+}
+#main_menu {
+	color: #F7F7F7;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 6px;
+	background-color: #2E2E2E;
+	padding-left: 6px;
+}
+a:link {
+	color: #F7F7F7;
+	text-decoration: none;
+}
+a:visited {
+	color: #F7F7F7;
+	text-decoration: none;
+}
+
+a:active {
+	color: #999;
+	text-decoration: underline;
+}
+a:hover {
+	color: #999;
+	text-decoration: underline;
+}
+#banner_img {
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+	padding-top: 3px;
+	padding-left: 5px;
+	clear: left;
+}
+#intro_box {
+	text-align: left;
+	font-family: Verdana, Geneva, sans-serif;
+	vertical-align: top;
+	left: 1000px;
+	float: right;
+	color: #CCC;
+	font-size: 15px;
+	width: 30%;
+	padding-left: 10px;
+	background-color: #494949;
+}
+
+#banner_wrapper {
+	float: left;
+	background-color: #494949;
+}
+#discount_img {
+	float: left;
+	background-color: #2E2E2E;
+	padding-top: 10px;
+	padding-left: 53px;
+	padding-right: 53px;
+}
+.about_us_banner {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #494949;
+}
+
+.item_wrapper {
+	background-color: #2E2E2E;
+	float: left;
+	color: #CCC;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 132px;
+	padding-right: 131px;
+}
+h1 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: bold;
+	color: #09F;
+}
+#bottom {
+	background-color: #2E2E2E;
+	text-align: center;
+	float: left;
+	width: 100%;
+	color: #999;
+}
+
+
+
+
+
+#intro_box h2 {
+	color: #F7F7F7;
+	text-align: left;
+	vertical-align: top;
+}
+.about_us {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #E0E0E0;
+	background-color: #494949;
+	text-align: justify;
+	vertical-align: top;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-top: 10px;
+	padding-bottom: 250px;
+}
+#reg_table {
+	background-color: silver;
+	width: 60%;
+}
+#admin_table {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+	background-color: #CCC;
+	padding: 5%;
+	float: left;
+}
+#admin_table a {
+	color: #03C;
+	font-family: Verdana, Geneva, sans-serif;
+}
+#product_category {
+	padding-bottom: 40%;
+	padding-top: 10%;
+	background-color: #494949;
+}
+#products {
+	padding: 20px;
+	background-color: #494949;
+}
+#place_or_view {
+	padding-top: 10%;
+}
+#place_or_view a input {
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+.body_wrapper #products table tr td {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #06F;
+	font-size: 22px;
+	margin-bottom: 10px;
+	
+
+}
+.price {
+	background-color: #D6D6D6;
+	width: 211px;
+}
